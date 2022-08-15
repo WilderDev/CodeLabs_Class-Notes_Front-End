@@ -1,4 +1,4 @@
-# CodeLabs_Class-Notes_Cape
+# CodeLabs Class Notes - Front-End
 
 ## Class 1 - Getting Started - JavaScript
 
