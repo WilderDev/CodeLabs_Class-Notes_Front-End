@@ -21,3 +21,12 @@
 [Class 3: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/03__JavaScript-Foundations-Part-2__JavaScript/03_Class-Notes.md)
 
 [Class 3: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/03__JavaScript-Foundations-Part-2__JavaScript/03_Class-Exercises.md)
+
+
+---
+
+## Class 4 - Building Real Things - JavaScript
+
+[Class 4: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/04__Building-Real-Things__JavaScript/04_Class-Notes.md)
+
+[Class 4: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/04__Building-Real-Things__JavaScript/04_Class-Exercises.md)
