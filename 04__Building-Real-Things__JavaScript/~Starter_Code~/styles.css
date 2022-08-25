@@ -1,0 +1,163 @@
+/* * GLOBAL STYLES * */
+body {
+  margin: 0;
+  color: #0f172a;
+  background-color: #f8fafc;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #0c4a6e;
+}
+
+.nav_main {
+  padding: 1.5rem 3rem;
+  box-shadow: -2px 19px 30px 2px rgba(0, 0, 0, 0.1);
+  background-color: #f0f9ff;
+}
+@media (max-width: 768px) {
+  .nav_main {
+    display: none;
+  }
+}
+
+.nav_main ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav_main li a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #0284c7;
+  padding: 0.75rem 1rem;
+}
+.nav_main li a:hover,
+.nav_main li a:focus {
+  color: #0c4a6e;
+}
+
+.container {
+  text-align: center;
+  margin-top: 64px;
+}
+
+.btn {
+  background-color: #e0f2fe;
+  color: #0c4a6e;
+  margin: 32px 8px;
+  padding: 16px 28px;
+  font-size: 1.5rem;
+  border-radius: 16px;
+  cursor: pointer;
+  box-shadow: 0px 8px 17px 2px rgba(0, 0, 0, 0.14),
+    0px 3px 14px 2px rgba(0, 0, 0, 0.12), 0px 5px 5px -3px rgba(0, 0, 0, 0.2);
+}
+
+/* * PRICING CALCULATOR * */
+.pricing-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.pricing-form label,
+.pricing-form input {
+  font-size: 1.5rem;
+  margin: 0.5em auto;
+}
+
+.quantity-label {
+  background-color: #bae6fd;
+  padding: 0.5em 0.75em;
+  border-radius: 8px;
+  font-size: 1.25rem;
+}
+
+.data-display {
+  border: 3px solid #0369a1;
+  border-radius: 100px;
+  min-width: 300px;
+  width: 20%;
+  margin: 2em auto;
+}
+
+.total-price {
+  font-size: 3rem;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+/* * Crazy Buttons * */
+.crazy-button {
+  position: absolute;
+  top: 20%;
+  left: 35%;
+  min-width: 200px;
+  width: 30%;
+  max-width: 300px;
+  transition: 400ms ease all;
+}
+
+/* * Stopwatch * */
+.timer p {
+  font-size: 2rem;
+  color: #0284c7;
+  letter-spacing: 0;
+}
+
+.btn-reset {
+  background-color: transparent;
+  border: none;
+  color: #64748b;
+  cursor: pointer;
+}
+
+/* * Scrolling Progress * */
+.blog-post {
+  width: clamp(275px, 50%, 60ch);
+  margin: 1em auto;
+  font-size: 1.375rem;
+  padding: 0.125em 3em;
+  border-radius: 12px;
+  box-shadow: 0px 24px 38px 3px rgba(0, 0, 0, 0.14),
+    0px 9px 46px 8px rgba(0, 0, 0, 0.12), 0px 11px 15px -7px rgba(0, 0, 0, 0.2);
+}
+
+.progress-bar {
+  height: 0.75rem;
+  width: 100vw;
+
+  position: sticky;
+  top: 0;
+  left: 0;
+  display: none;
+  /* Reset the default appearance */
+  -webkit-appearance: none;
+  appearance: none;
+}
+progress[value]::-webkit-progress-bar {
+  background-color: #f0f9ff;
+  border-radius: 2px;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.14),
+    0px 1px 10px 0px rgba(0, 0, 0, 0.12), 0px 2px 4px -1px rgba(0, 0, 0, 0.2);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap; /* added line */
+  border: 0;
+}
+
+/* * Accordion * */
+.accordion-container {
+}
