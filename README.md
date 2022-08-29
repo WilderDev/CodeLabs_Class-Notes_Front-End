@@ -30,3 +30,11 @@
 [Class 4: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/04__Building-Real-Things__JavaScript/04_Class-Notes.md)
 
 [Class 4: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/04__Building-Real-Things__JavaScript/04_Class-Exercises.md)
+
+---
+
+## Class 5 - Bookmarking App - JavaScript
+
+[Class 5: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/05__Bookmarking-App__JavaScript/05_Class-Notes.md)
+
+[Class 5: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/05__Bookmarking-App__JavaScript/05_Class-Exercises.md)
