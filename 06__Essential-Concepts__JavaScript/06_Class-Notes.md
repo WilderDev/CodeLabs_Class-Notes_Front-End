@@ -1,6 +1,6 @@
 # JavaScript Essential Concepts
 
-[Class 6 Course Content](https://www.better.dev/ecmascript-vs-javascript)
+[Class 6 Course Content](https://www.youtube.com/playlist?list=PLJhkLjPTf1DLkaryPjdP1RiBakdIen4p6)
 
 ## Preparation
 
