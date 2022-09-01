@@ -38,3 +38,11 @@
 [Class 5: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/05__Bookmarking-App__JavaScript/05_Class-Notes.md)
 
 [Class 5: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/05__Bookmarking-App__JavaScript/05_Class-Exercises.md)
+
+---
+
+## Class 6 - JS Essential Concepts - JavaScript
+
+[Class 6: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/06__Essential-Concepts__JavaScript/06_Class-Notes.md)
+
+[Class 6: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/06__Essential-Concepts__JavaScript/06_Class-Exercises.md)
