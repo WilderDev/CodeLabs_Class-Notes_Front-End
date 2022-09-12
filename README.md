@@ -1,5 +1,7 @@
 # CodeLabs Class Notes - Front-End
 
+[GitHub WorkFlow](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/EXTRA/GitHub_Basics.png)
+
 ## Class 1 - Getting Started - JavaScript
 
 [Class 1: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Cape/blob/main/01__Getting-Started__JavaScipt/01_Class-Notes.md)
@@ -46,3 +48,11 @@
 [Class 6: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/06__Essential-Concepts__JavaScript/06_Class-Notes.md)
 
 [Class 6: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/06__Essential-Concepts__JavaScript/06_Class-Exercises.md)
+
+---
+
+## Class 7 - JS Intermediate Concepts - JavaScript
+
+[Class 7: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/07__Intermediate-Concepts__JavaScript/07_Class-Notes.md)
+
+[Class 7: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/07__Intermediate-Concepts__JavaScript/07_Class-Exercises.md)
