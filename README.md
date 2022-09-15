@@ -70,3 +70,11 @@
 ## Classes 1 - 8 Review Notes
 
 [Review Notes](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/08__Advanced-Concepts__JavaScript/REVIEW_NOTES.md)
+
+---
+
+## Class 9 - Introduction to Typescript - JavaScript/Angular
+
+[Class 9: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/09__Typescript-Introduction__JavaScript/09_Class-Notes.md)
+
+[Class 9: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/09__Typescript-Introduction__JavaScript/09_Class-Exercises.md)
