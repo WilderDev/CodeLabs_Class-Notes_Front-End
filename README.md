@@ -56,3 +56,17 @@
 [Class 7: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/07__Intermediate-Concepts__JavaScript/07_Class-Notes.md)
 
 [Class 7: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/07__Intermediate-Concepts__JavaScript/07_Class-Exercises.md)
+
+---
+
+## Class 8 - JS Advanced Concepts - JavaScript
+
+[Class 8: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/08__Advanced-Concepts__JavaScript/08_Class-Notes.md)
+
+[Class 8: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/08__Advanced-Concepts__JavaScript/08_Class-Exercises.md)
+
+---
+
+## Classes 1 - 8 Review Notes
+
+[Review Notes](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/08__Advanced-Concepts__JavaScript/REVIEW_NOTES.md)
