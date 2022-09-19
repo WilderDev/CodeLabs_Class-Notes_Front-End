@@ -78,3 +78,11 @@
 [Class 9: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/09__Typescript-Introduction__JavaScript/09_Class-Notes.md)
 
 [Class 9: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/09__Typescript-Introduction__JavaScript/09_Class-Exercises.md)
+
+---
+
+## Class 10 - Getting Started w/ Angular- Angular
+
+[Class 10: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/10__Completing-Getting-Started__Angular/10_Class-Notes.md)
+
+[Class 10: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/10__Completing-Getting-Started__Angular/10_Class-Exercises.md)
