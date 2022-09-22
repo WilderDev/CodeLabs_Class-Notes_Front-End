@@ -86,3 +86,11 @@
 [Class 10: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/10__Completing-Getting-Started__Angular/10_Class-Notes.md)
 
 [Class 10: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/10__Completing-Getting-Started__Angular/10_Class-Exercises.md)
+
+---
+
+## Class 11 - The Basics of Angular - Angular
+
+[Class 11: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/11__The-Basic__Angular/11_Class-Notes.md)
+
+[Class 11: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/11__The-Basic__Angular/11_Class-Exercises.md)
