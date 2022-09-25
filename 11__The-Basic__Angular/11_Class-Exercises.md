@@ -20,7 +20,7 @@ _NOTE_: Make projects all non-strict mode
 - Nest `child-three` into `child-two`
 - Run `ng serve` in the terminal, and you should see the template of each component rendered onto the webpage
 
-![Exercise 1 Nested Component Diagram](./resources/exercise-1_nested-component-diagram.png)
+![Exercise 1 Nested Component Diagram](./assets/exercise-1_nested-component-diagram.png)
 
 ---
 
@@ -30,7 +30,7 @@ _NOTE_: Make projects all non-strict mode
 - Generate a component structure that looks similar to the diagram
 - Run `ng serve` in the terminal, and you should see the template of each component rendered
 
-![Exercise 2 Complex Component Tree](./resources/exercise-2_complex-component-tree.png)
+![Exercise 2 Complex Component Tree](./assets/exercise-2_complex-component-tree.png)
 
 ---
 

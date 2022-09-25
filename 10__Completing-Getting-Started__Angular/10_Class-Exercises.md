@@ -50,7 +50,7 @@ _NOTE_: You will need to use Google & your fellow classmates!
 - Display each component in the app component
 - Run `ng serve` in the terminal, and you should see both paragraph tags
 
-![Exercise 4 Component Tree](./resources/exercise-4_component-tree.png)
+![Exercise 4 Component Tree](./assets/exercise-4_component-tree.png)
 
 ---
 
