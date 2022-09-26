@@ -94,3 +94,11 @@
 [Class 11: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/11__The-Basic__Angular/11_Class-Notes.md)
 
 [Class 11: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/11__The-Basic__Angular/11_Class-Exercises.md)
+
+---
+
+## Class 12 - Course Project (The Basics) - Angular
+
+[Class 12: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/12__Course-Project-Basics-Debugging__Angular/12_Class-Notes.md)
+
+[Class 12: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/12__Course-Project-Basics-Debugging__Angular/12_Class-Exercises.md)
