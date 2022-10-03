@@ -102,3 +102,11 @@
 [Class 12: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/12__Course-Project-Basics-Debugging__Angular/12_Class-Notes.md)
 
 [Class 12: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/12__Course-Project-Basics-Debugging__Angular/12_Class-Exercises.md)
+
+---
+
+## Class 13 - Components & Data-Binding Deep Dive
+
+[Class 13: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/13__Components-and-Databinding__Angular/13_Class-Notes.md)
+
+[Class 13: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/13__Components-and-Databinding__Angular/13_Class-Exercises.md)
