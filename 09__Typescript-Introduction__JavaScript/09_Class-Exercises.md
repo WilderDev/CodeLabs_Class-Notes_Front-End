@@ -14,6 +14,6 @@
 
 ---
 
-## Exercise #2: Advanced
+## Exercise #3: Advanced
 
 **Aim**: Refactor or Recreate the Stopwatch using strict Typescript
