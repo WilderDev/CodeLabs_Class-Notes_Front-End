@@ -110,3 +110,9 @@
 [Class 13: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/13__Components-and-Databinding__Angular/13_Class-Notes.md)
 
 [Class 13: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/13__Components-and-Databinding__Angular/13_Class-Exercises.md)
+
+---
+
+## Class 14 - Review Day
+
+[Class 14: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/14__Review-Day/14_Class-Notes.md)
