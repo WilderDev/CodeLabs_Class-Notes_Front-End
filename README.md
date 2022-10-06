@@ -105,7 +105,7 @@
 
 ---
 
-## Class 13 - Components & Data-Binding Deep Dive
+## Class 13 - Components & Data-Binding Deep Dive - Angular
 
 [Class 13: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/13__Components-and-Databinding__Angular/13_Class-Notes.md)
 
@@ -113,6 +113,12 @@
 
 ---
 
-## Class 14 - Review Day
+## Class 14 - Review Day - Angular
 
 [Class 14: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/14__Review-Day/14_Class-Notes.md)
+
+---
+
+## Class 15 - Directives Deep Dive & Services - Angular
+
+[Class 15: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/15__Directives-Deep-Dive__Angular/15_Class-Notes.md)
