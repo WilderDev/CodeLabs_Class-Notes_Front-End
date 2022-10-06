@@ -1,0 +1,32 @@
+<div class="container my-5">
+  <!-- Title -->
+  <div class="row">
+    <div class="col-xs-12">
+      <h1>Learning Directives</h1>
+    </div>
+  </div>
+
+  <!-- Show/Hide Money Button -->
+  <div class="row">
+    <div class="col-xs-12">
+      <button class="btn btn-primary" (click)="showIncome = !showIncome">
+        Show Me {{ showIncome ? "The Damage" : "The Money" }}
+      </button>
+    </div>
+  </div>
+
+  <!-- Transaction List -->
+  <div class="row mt-3">
+    <ul class="list-group">
+      <!-- Income Items -->
+      <div>
+        <li class="list-group-item">+</li>
+      </div>
+
+      <!-- Expense Items -->
+      <div>
+        <li class="list-group-item">-</li>
+      </div>
+    </ul>
+  </div>
+</div>
