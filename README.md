@@ -122,3 +122,9 @@
 ## Class 15 - Directives Deep Dive & Services - Angular
 
 [Class 15: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/15__Directives-Deep-Dive__Angular/15_Class-Notes.md)
+
+---
+
+## Class 16 - Changing Pages w/ Routing - Angular
+
+[Class 16: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/16__Changing-Pages-Routing__Angular/16_Class-Notes.md)
