@@ -128,3 +128,11 @@
 ## Class 16 - Changing Pages w/ Routing - Angular
 
 [Class 16: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/16__Changing-Pages-Routing__Angular/16_Class-Notes.md)
+
+---
+
+## Class 17 - Understanding Observables - Angular
+
+[Class 17: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/17__Understanding-Observables__Angular/17_Class-Notes.md)
+
+[Class 17: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/17__Understanding-Observables__Angular/17_Class-Exercises.md)
