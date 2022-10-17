@@ -136,3 +136,11 @@
 [Class 17: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/17__Understanding-Observables__Angular/17_Class-Notes.md)
 
 [Class 17: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/17__Understanding-Observables__Angular/17_Class-Exercises.md)
+
+---
+
+## Class 18 - Handling Forms - Angular
+
+[Class 18: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/18__Handling-Forms__Angular/18_Class-Notes.md)
+
+[Class 18: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/18__Handling-Forms__Angular/18_Class-Exercises.md)
