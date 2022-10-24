@@ -150,3 +150,9 @@
 ## Class 19 - Course Project Forms & Using Pipes to Transform Outputs - Angular
 
 [Class 19: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/19__Course-Project-Forms-and-Pipes__Angular/19_Class-Notes.md)
+
+---
+
+## Class 20 - Review Day
+
+[Class 20: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/20__Review-Day/20_Class-Notes.md)
