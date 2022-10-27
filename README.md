@@ -156,3 +156,11 @@
 ## Class 20 - Review Day
 
 [Class 20: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/20__Review-Day/20_Class-Notes.md)
+
+---
+
+## Class 21 - HTTP Requests & Firebase
+
+[Class 21: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/21__HTTP-Requests-and-Course-Project__Angular/21_Class-Notes.md)
+
+[Class 21: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/21__HTTP-Requests-and-Course-Project__Angular/21_Class-Exercises.md)
