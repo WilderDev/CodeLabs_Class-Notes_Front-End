@@ -159,8 +159,14 @@
 
 ---
 
-## Class 21 - HTTP Requests & Firebase
+## Class 21 - HTTP Requests & Firebase - Angular
 
 [Class 21: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/21__HTTP-Requests-and-Course-Project__Angular/21_Class-Notes.md)
 
 [Class 21: EXERCISES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/21__HTTP-Requests-and-Course-Project__Angular/21_Class-Exercises.md)
+
+---
+
+## Class 22 - Authentication && Route Protection - Angular
+
+[Class 22: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/22__Authentication-and-Route-Protection__Angular/22_Class-Notes.md)
