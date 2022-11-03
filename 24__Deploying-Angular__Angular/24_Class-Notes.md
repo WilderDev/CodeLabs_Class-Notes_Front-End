@@ -1,4 +1,4 @@
-# Class 24 - Deploying an Angular App !!!! WE WILL NEED TO CHANGE THIS!
+# Class 24 - Deploying an Angular App
 
 [Class 24 Course Content](https://pro.academind.com/courses/765847/lectures/13906653)
 
