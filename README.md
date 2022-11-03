@@ -170,3 +170,15 @@
 ## Class 22 - Authentication && Route Protection - Angular
 
 [Class 22: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/22__Authentication-and-Route-Protection__Angular/22_Class-Notes.md)
+
+---
+
+## Class 23 - Dynamic Components && Optimizing Our App - Angular
+
+[Class 23: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/23__Dynamic-Components-Modules-and-Optimizations__Angular/23_Class-Notes.md)
+
+---
+
+## Class 24 - Deploying an Angular App (Firebase) - Angular
+
+[Class 24: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/24__Deploying-Angular__Angular/24_Class-Notes.md)
