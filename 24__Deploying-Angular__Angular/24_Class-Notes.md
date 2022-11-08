@@ -88,6 +88,17 @@ Enter your GitHubUsername followed by your repository name -> WilderDev/my-proje
 Set up the workflow to run a build script -> Yes -> Enter -> Yes -> Enter
 
 ```
+- Copy your projectId from the firebase console project settings.
+- Add a "site" property in your firebase.json
+```json
+{
+  "hosting": {
+    "public": "dist/BookIt",
+    "site": "your-projectId",
+    // ...
+  }
+}
+```
 
 - Deploy your application
 
