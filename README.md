@@ -182,3 +182,35 @@
 ## Class 24 - Deploying an Angular App (Firebase) - Angular
 
 [Class 24: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/24__Deploying-Angular__Angular/24_Class-Notes.md)
+
+---
+
+## Class 25 - Animations && Service Workers - Angular
+
+[Class 25: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/25__Animations-and-Service-Workers__Angular/25_Class-Notes.md)
+
+---
+
+## Class 26 - Review Day
+
+[Class 26: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/26__Review-Day/26_Class-Notes.md)
+
+---
+
+## Class 27 - Unit Testing - Angular
+
+[Class 27: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/27__Unit-Testing__Angular/27_Class-Notes.md)
+
+---
+
+## Class 28 - Angular Platform && CLI - Angular
+
+[Class 28: NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/28__Angular-Platform-and-CLI__Angular/28_Class-Notes.md)
+
+---
+
+## Class 29 - GitHub on a Team && Project Management w/ JIRA - Angular
+
+[Class 29: GITHUB NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/29__Advanced-GitHub-and-Project-Management__Version-Control/29_Class-Notes_GitHub.md)
+
+[Class 29: JIRA NOTES](https://github.com/WilderDev/CodeLabs_Class-Notes_Front-End/blob/main/29__Advanced-GitHub-and-Project-Management__Version-Control/29_Class-Notes_JIRA.md)
